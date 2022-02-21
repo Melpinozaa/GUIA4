@@ -1,0 +1,12 @@
+package sv.edu.udb.ejercicio_2;
+
+import javax.swing.JOptionPane;
+
+public class Ejercicio2 {
+public static void main(String[] args) {
+	
+	double r = Double.parseDouble(JOptionPane.showInputDialog(null, "Digite el numero que desea"))
+	
+	
+}
+}
